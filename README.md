@@ -1,7 +1,7 @@
 
 # 🖥️ Projeto de Infraestrutura de TI para Home Office | NeuroCode
 
-**Time:** Diego Mendes, Igor Santos, Luis Felipe Gomes, Matheus Bela, Vinicius Batista, Webster Santiago  
+**Time:** Thiago Silva, Silas Alvares, Vinicius, davi , zack lemos, 
 **Instituição:** Universidade Paulista (UNIP)  
 **Disciplinas:** Organização de Computadores, Sistemas de Informação, Estatística, Sistemas Operacionais, Lógica, Desenvolvimento Sustentável, Comunicação Aplicada  
 
