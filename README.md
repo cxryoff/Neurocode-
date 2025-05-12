@@ -1,5 +1,5 @@
 
-```markdown
+markdown
 # 🖥️ Projeto de Infraestrutura de TI para Home Office | NeuroCode
 
 **Time:** Diego Mendes, Igor Santos, Luis Felipe Gomes, Matheus Bela, Vinicius Batista, Webster Santiago  
