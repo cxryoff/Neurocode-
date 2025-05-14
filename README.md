@@ -2,7 +2,9 @@
 # 🖥️ Projeto de Infraestrutura de TI para Home Office | NeuroCode
 
 **Time:** Thiago Silva, Silas Alvares, Vinicius, davi , zack lemos, 
+
 **Instituição:** Universidade Paulista (UNIP)  
+
 **Disciplinas:** Organização de Computadores, Sistemas de Informação, Estatística, Sistemas Operacionais, Lógica, Desenvolvimento Sustentável, Comunicação Aplicada  
 
 ---
